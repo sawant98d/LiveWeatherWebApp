@@ -1,6 +1,11 @@
 # Weather-App-Django
 This repository implements a weather app that uses Open Weather API and Django as a backend framework and deployment using heroku.
 
+### Following is the Activity diagram -
+
+![image](https://user-images.githubusercontent.com/53881680/139175644-38574037-bea6-48b3-9870-81aef2ee6241.png)
+
+
 <h3>Important Links</h3>
 <ul>
 <li><a href="https://devcenter.heroku.com/articles/getting-started-with-python">Deployment using Heroku</a></li>
