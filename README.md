@@ -5,6 +5,11 @@ This repository implements a weather app that uses Open Weather API and Django a
 
 ![image](https://user-images.githubusercontent.com/53881680/139175644-38574037-bea6-48b3-9870-81aef2ee6241.png)
 
+### Following is the API communication diagram from client to server
+
+![1_qk6N7d2zSl-uRgWPaz-ByA](https://user-images.githubusercontent.com/53881680/139175793-eb0da3ac-0d44-4bf0-bbd7-c196ae06bccb.png)
+
+
 
 <h3>Important Links</h3>
 <ul>
